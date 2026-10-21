@@ -1,0 +1,7 @@
+.DS_Store
+.venv-frida/
+__pycache__/
+*.py[cod]
+device_work/
+data/runtime/*
+!data/runtime/.gitignore

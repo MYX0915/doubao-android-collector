@@ -1,0 +1,3 @@
+# Runtime captures may contain account/session security material.
+*
+!.gitignore
